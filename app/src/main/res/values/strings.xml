@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CameraApp</string>
+    <string name="splash_screen">Splash Screen</string>
+    <string name="welcome">Welcome</string>
+    <string name="new_photo">Image Saved Internally</string>
+    <string name="view_my_photos">View my photos</string>
+    <string name="take_photo">Take photo</string>
+
+    <string name="title_activity_view_full_photo">ViewFullPhotoActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
